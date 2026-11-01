@@ -406,6 +406,6 @@ There are no automated tests. I tested the Apps Script version against a test ro
 
 *Not affiliated with Spotify or SIBS (MB WAY). Their logos appear only inside the email template, for the members' benefit.*
 
-**David Ribeiro** · [Portfolio](https://davidribeiro.lovable.app) · [GitHub](https://github.com/davidr44)
+**David Ribeiro** · [LinkedIn](https://www.linkedin.com/in/daviddr44/) · [Portfolio](https://davidribeiro.me/) · [Email](mailto:daviddr3023@gmail.com)
 
 © 2026 David Ribeiro. Code shared for portfolio review. No licence is granted to reuse it.
