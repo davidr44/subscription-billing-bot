@@ -354,6 +354,7 @@ I've run a Make.com system in production for over a year, so this is the compari
 ```
 .
 ├── README.md
+├── LICENSE
 ├── apps-script/
 │   └── Code.gs          # Reminder engine + receipt engine, member names replaced
 └── docs/
@@ -408,4 +409,4 @@ There are no automated tests. I tested the Apps Script version against a test ro
 
 **David Ribeiro** · [LinkedIn](https://www.linkedin.com/in/daviddr44/) · [Portfolio](https://davidribeiro.me/) · [Email](mailto:daviddr3023@gmail.com)
 
-© 2026 David Ribeiro. Code shared for portfolio review. No licence is granted to reuse it.
+© 2026 David Ribeiro. Released under the [MIT License](LICENSE). The Spotify and MB WAY logos are their owners' and aren't covered by it.
